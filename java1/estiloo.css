@@ -1,0 +1,10 @@
+body {
+    background-color: blue;
+    color: black;
+  }
+  
+  /* Establecer bordes dorados para todos los elementos */
+  * {
+    border: 1px solid gold;
+  }
+  
